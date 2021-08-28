@@ -46,6 +46,11 @@ Most of these projects are not open source. Use at your own risk.
 
 - [Solible](https://solible.com)
 
+### Dapp
+
+- [TaskDapp](https://taskdapp.io)
+
+
 ### Yield Farms
 
 - [Cryptocurrencies.ai](https://dex.cryptocurrencies.ai/rewards)
